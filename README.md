@@ -1,2 +1,2 @@
-# python-practice
-A Python practice notebook covering fundamentals, data types, operators, strings, conditionals, lists, tuples, dictionaries, sets, loops, functions, recursion, file handling, and OOP concepts such as classes, inheritance, encapsulation, abstraction, polymorphism, and operator overloading.
+# AI-ML-DL
+A hands-on learning repository covering Artificial Intelligence, Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI with Python implementations, practical exercises, and real-world projects.
